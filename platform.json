@@ -43,7 +43,7 @@
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
       "owner": "platformio",
-      "version": "~1.70201.0"
+      "version": "~1.80201.0"
     },
     "framework-arduino-sam": {
       "type": "framework",
